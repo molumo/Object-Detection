@@ -2,6 +2,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLineEdit, QLabel, QGridLayou
 from PyQt5.QtCore import Qt
 import math
 import sys
+import os 
 
 def calculate():
         # Get the values of a, b, and c from the input fields
